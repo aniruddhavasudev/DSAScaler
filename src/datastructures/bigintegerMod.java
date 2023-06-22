@@ -1,0 +1,30 @@
+package datastructures;
+
+import java.util.ArrayList;
+
+public class bigintegerMod {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+//		A = [1, 4, 3]
+		ArrayList<Integer> A = new ArrayList<>();
+		A.add(1);
+		A.add(4);
+		A.add(3);
+		
+		String N =Integer.toString(A.get(0)) ; 
+
+
+		for(int i =1; i<A.size() ; i++) {
+			N = N + Integer.toString(A.get(i)) ;
+			
+		}
+
+		 for(int j =0; j<N.length() ; j++) {
+			 
+		 }
+		System.out.println(N);
+	}
+
+}
