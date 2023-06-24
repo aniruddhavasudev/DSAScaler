@@ -1,4 +1,5 @@
 All DSA problems solved during Scaler classes. Problems solved on the topics
+Total problems solved - 350+
 1. Arrays
 2. Bit Manipulations
 3. Maths - Modular Arthimetic
